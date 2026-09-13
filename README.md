@@ -1,4 +1,4 @@
-# 1-DTE Options Strategy
+# Schuss — 1-DTE Options Strategy
 
 > [!NOTE]
 > **This is the public showcase repository.** To request access to the private, full-source repository, please email [laurent.lanteigne@gmail.com](mailto:laurent.lanteigne@gmail.com).
@@ -13,7 +13,7 @@ A quantitative trading engine designed for **1-DTE (One Day to Expiration)** opt
 The project follows a production-grade `src` layout:
 
 ```text
-one_dte_trade/
+schuss_trade_public/
 ├── .git/
 ├── .github/
 │   └── workflows/
